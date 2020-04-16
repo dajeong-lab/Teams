@@ -12,3 +12,7 @@
 - [관리자 설정 페이지 이동🔗](https://support.microsoft.com/ko-kr/office/%ec%a1%b0%ec%a7%81%ec%97%90-%eb%8c%80%ed%95%b4-microsoft-whiteboard-%ec%82%ac%ec%9a%a9-%ec%84%a4%ec%a0%95-1caaa2e2-5c18-4bdf-b878-2d98f1da4b24?ui=ko-kr&rs=ko-kr&ad=kr#bkmk_01)
 ## 라이브 캡션 자막
 - 현재 영어만 가능
+## 라이브이벤트
+- 청중에게 대규모 온랑니 스트리밍 이벤트
+- Stream 및 Yammer 에서 대화형 토론 가능
+- 최대 10,000명 
