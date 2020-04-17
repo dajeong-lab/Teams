@@ -1,4 +1,4 @@
-## 컨텐츠 보호
+# 정보 보호(컨텐츠)
 ### Azure Information Protection(AIP)
 - 최종 사용자 라벨링 및 분류
 - 레이블에 따라 파일에 보호 적용 
@@ -13,6 +13,13 @@
 ### Protection the group
 - 팀분류에 따라 팀 설정 변경
 - 통합 라벨이 Office365 그룹에 제공됨
+
+# 위협 방지
+## Advanced Threat Analytics
+- 사이버 공격
+- 내부자 위협
+
+# 디바이스 및 앱 관리
 ## Microsoft Endpoint Manager
 `아래 기능을 포함합니다.`
 - Configuration Manager
@@ -41,3 +48,6 @@
 - 관리되는 앱을 통해 회사 데이터 복사/잘라내기와 같은 다른 앱으로 유출 방지
 - 디바이스와 앱에 대한 규정 준수 상태 보고서 제공
 
+# ID 및 액세스 관리
+## Azure Active Directory Premium1 (M365 E3)
+`SSO 앱 추가 무제한`
