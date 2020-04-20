@@ -52,4 +52,4 @@
 
 ## ID 및 액세스 관리
 ### Azure Active Directory Premium1 (M365 E3)
--SSO 앱 추가 무제한
+- SSO 앱 추가 무제한
